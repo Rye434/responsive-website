@@ -40,7 +40,7 @@ h1{
     color: #FDF3E7;
     height: 220px;
     padding-bottom: 20px;
-    padding-top: 20px;
+    padding-top: 60px;
     margin-top: 0.2em;
     letter-spacing: 3px;
 }
@@ -180,10 +180,6 @@ footer{
         margin: 0;
         padding: 0;
     }
-    h1{
-        margin:0;
-        padding:0;
-    }
     nav{
         width: 90%;
         margin-left: 5%;
@@ -208,7 +204,7 @@ footer{
         margin-right: 5%;
     }
     h1{
-        padding-top: 0.4em;
+        padding-top: 0.8em;
     }
     h2{
         height: 130px;
